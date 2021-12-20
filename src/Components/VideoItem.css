@@ -5,5 +5,22 @@
 }
 
 .video-item img{
-  max-width:175px !important;
+  max-width:200px !important;
+}
+iframe{
+  width:100% !important;
+}
+
+.ui.container{
+    width:62% !important;
+    margin-bottom: 15px !important;
+}
+.ui.segment{
+  margin-bottom:15px !important;
+}
+body{
+  margin-bottom: 20px !important;
+}
+.video-item.item:last-child{
+  margin-bottom: 20px !important;
 }
